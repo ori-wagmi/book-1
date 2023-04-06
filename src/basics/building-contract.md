@@ -50,7 +50,7 @@ When the contract is built, the last step is to ensure it is a valid CosmWasm co
 ```
 $ cargo wasm
 ...
-$ check_contract ./target/wasm32-unknown-unknown/release/contract.wasm
+$ cosmwasm-check ./target/wasm32-unknown-unknown/release/contract.wasm
 Supported features: {"iterator", "staking", "stargate"}
 contract checks passed.
 ```
