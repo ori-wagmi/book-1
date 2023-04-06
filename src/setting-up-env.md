@@ -47,7 +47,7 @@ If the installation succeeds, you should be able to execute the utility from you
 
 ```
 $ cosmwasm-check --version
-Contract checking 1.1.0
+Contract checking 1.2.3
 ```
 
 ## Verifying the installation
